@@ -9,4 +9,4 @@ check your git branch :- git branch
 how to switch branch:- git checkout login-form
 how to publish branch :-git push origin login-form
 check satues :- git status
-deploper code ses korle merge korte hbe :- git merge login-form
+deploper code ses korle merge korte hbe :- git merge login-form -git push origin main(jei branch e push korte cai)
