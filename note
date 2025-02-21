@@ -2,4 +2,4 @@
     githow to host your code to github repository--
     -git add .
     --git commit -m "comments 1"
-    --git push origin main
+    -- git push origin main
