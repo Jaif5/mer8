@@ -3,3 +3,9 @@
     -git add .
     --git commit -m "comments 1"
     -- git push origin main
+   what is  Git Branch check branch :- git branch
+   login form branch making :- git branch login-form 
+check your git branch :- git branch
+how to switch branch:- git checkout login-form
+how to publish branch :-git push origin login-form
+check satues :- git status
